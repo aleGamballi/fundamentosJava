@@ -1,10 +1,8 @@
-package testsRpgProject;
+package TestArrays;
 
 import java.util.Scanner;
 
-import java.util.ArrayList;
-
-public class Gods {
+public class ArraysSkyrimTest {
     static void main() {
         int powerAkatosh = 100;
         int [] arrayIntAkatosh = new int [100];
